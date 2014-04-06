@@ -21,9 +21,12 @@
 - allow for hold cycles 
 - abstract grabbing item so you can press anywhere on screen (see cloudbreaker)
 - Add lanes for VERY basic gameplay
-	- reduce balloon colors to 2 
-	- add 2 sensor entities
-	- add collision rules to check if right balloon is going through
+	//- reduce balloon colors to 2 
+	//- add 2 sensor entities
+	//- add collision rules to check if right balloon is going through
+	- put 'perfect!' text in place if it is
+	- add reward text entity 
+	- grab sprite sheet from cloudbreaker
 	- reward accordingly 
 
 
