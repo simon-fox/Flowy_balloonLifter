@@ -4,7 +4,7 @@
 //////////////////////////////////
 
 //- Gut out ballon bobble mechanics
-- remove ceiling on level 
+//- remove ceiling on level 
 //- balloon, chain and item carried on chain for every breath
 	//- change balloon so it anchors to an item
 	//- item is just small obstacle for now 
@@ -13,9 +13,18 @@
 //- or do ballons stay in place in center until released?
 	//- using anchor and chain means we can prototype it faster
 
-- fix clean up after breath so it only destroys correct chain. 
+//- fix clean up after breath so it only destroys correct chain. 
 //- make lower chain invisible
 
+
+- Add new breathIndicator
+- allow for hold cycles 
+- abstract grabbing item so you can press anywhere on screen (see cloudbreaker)
+- Add lanes for VERY basic gameplay
+	- reduce balloon colors to 2 
+	- add 2 sensor entities
+	- add collision rules to check if right balloon is going through
+	- reward accordingly 
 
 
 
